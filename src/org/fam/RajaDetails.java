@@ -23,5 +23,7 @@ public class RajaDetails {
 			san.fatherName();
 			san.motherName();
 			san.chithapaName();
+			System.out.println("jhgfds");
+			System.out.println("jhglkjhgf");
 		}
 }
